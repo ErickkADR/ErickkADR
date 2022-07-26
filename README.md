@@ -10,7 +10,7 @@ Olá !!! Eu sou o Erick Dantas
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="edward" height="150" style="border-radius:50px;" 
-src="[https://c.tenor.com/Gmbkcm5sawwAAAAd/edward-elric-fmab.gif](https://tenor.com/btCOn.gif)">
+src="https://64.media.tumblr.com/e99835db7126c6fce1f577242861586c/tumblr_pqok2gmdTm1tlrxobo6_400.gifv">
 </div>
 
 ##
