@@ -1,4 +1,5 @@
-## Hello, my name's Erick Dantas, I'm studying HTML5, CSS3 and JavaScript
+## Hello, my name's Erick Dantas, I'm studying HTML5, CSS3 and JavaScript. I always try to improve my programming skills in order to become a Full-Stack developer
+
 <div align="center">
   <a href="https://github.com/ErickkADR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickkADR&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
