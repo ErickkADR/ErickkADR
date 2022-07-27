@@ -2,15 +2,15 @@ Olá !!! Eu sou o Erick Dantas
 
 <div align="center">
   <a href="https://github.com/ErickkADR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickkADR&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickkADR&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickkADR&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickkADR&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="edward" height="150" style="border-radius:50px;" 
-src="https://64.media.tumblr.com/e99835db7126c6fce1f577242861586c/tumblr_pqok2gmdTm1tlrxobo6_400.gifv">
+src="https://i.pinimg.com/originals/26/06/31/260631fb26f1ac261159918bdd89b289.jpg">
 </div>
 
 ##
