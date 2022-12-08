@@ -1,6 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2bde0b&height=120&section=header"/>
+<img width=100% src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000af&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2bde0b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Erickk;I'm+16+years+old;I+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000af&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Erickk;I'm+16+years+old;I+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
 <br>
 <br>
@@ -38,4 +39,4 @@
 
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2bde0b&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000af&height=120&section=footer"/>
