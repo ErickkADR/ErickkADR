@@ -34,16 +34,16 @@ I want to work outside Brazil, improve my English and get to know new cultures, 
       <h3>Other places you can find me</h3>
       <ul>
         <li>
-          🐦 <a href="https://twitter.com/ERICK_A_D_R">Follow me on Twitter</a>
+          🐦 <a href="https://twitter.com/ERICK_A_D_R" target="_blank">Follow me on Twitter</a>
         </li>
         <li>
-          📺 <a href="https://www.youtube.com/channel/UC1aGJL3yiFcF49_PFU_Jajg">Subscribe on Youtube</a>
+          📺 <a href="https://www.youtube.com/channel/UC1aGJL3yiFcF49_PFU_Jajg" target="_blank">Subscribe on Youtube</a>
         </li>
         <li>
-          📷 <a href="https://www.instagram.com/erickk.adr/">Follow me on instagram</a>
+          📷 <a href="https://www.instagram.com/erickk.adr/" target="_blank">Follow me on instagram</a>
         </li>
         <li>
-          📬 <a href=mailto:erick.dantas.work@gmail.com>Contact-me on email</a>
+          📬 <a href=mailto:erick.dantas.work@gmail.com target="_blank">Contact-me on email</a>
         </li>
       </ul>
     </td>
