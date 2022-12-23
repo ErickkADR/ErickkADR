@@ -3,11 +3,11 @@
 </div>
   
   <div align="center"> 
-<a href="https://www.youtube.com/channel/UC1aGJL3yiFcF49_PFU_Jajg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/erickk.adr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:mailto:erick.dantas.work@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href= "https://www.linkedin.com/in/erickkadr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href= "https://twitter.com/ERICK_A_D_R" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/channel/UC1aGJL3yiFcF49_PFU_Jajg" target="_blank"><img src="https://img.shields.io/badge/YouTube-705fad?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/erickk.adr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-705fad?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:mailto:erick.dantas.work@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-705fad?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href= "https://www.linkedin.com/in/erickkadr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-705fad?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href= "https://twitter.com/ERICK_A_D_R" target="_blank"><img src="https://img.shields.io/badge/Twitter-705fad?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   
  </div>
   <br>
