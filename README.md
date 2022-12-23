@@ -26,24 +26,24 @@ I want to work outside Brazil, improve my English and get to know new cultures, 
     </td>
     <td style="border: 0";>
       <p>
-        💻 Project focused on quality content on programming and technology in general <a href="https://www.instagram.com/guiadevbrasil/">Guia Dev Brasil<a/>.
+        💻 I am currently in the third year of high school.
       </p>
       <p>
-        🌙 Making daily content in <a href="https://www.instagram.com/guiadevbrasil/">@guiadevbrasil</a>, I supplement that writing with <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">videos on Youtube</a>.
+        🌙 The programming language I'm studying at the moment is Java Script.
       </p>
       <h3>Other places you can find me</h3>
       <ul>
         <li>
-          🐦 <a href="https://twitter.com/manotoquinho">Follow me on Twitter</a>
+          🐦 <a href="https://twitter.com/ERICK_A_D_R">Follow me on Twitter</a>
         </li>
         <li>
-          📺 <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Subscribe on Youtube</a>
+          📺 <a href="https://www.youtube.com/channel/UC1aGJL3yiFcF49_PFU_Jajg">Subscribe on Youtube</a>
         </li>
         <li>
-          📷 <a href="https://www.instagram.com/guiadevbrasil/">Follow me on instagram</a>
+          📷 <a href="https://www.instagram.com/erickk.adr/">Follow me on instagram</a>
         </li>
         <li>
-          📬 <a href=mailto:arthurguiadev@gmail.com>Contact-me on email</a>
+          📬 <a href=mailto:erick.dantas.work@gmail.com>Contact-me on email</a>
         </li>
       </ul>
     </td>
