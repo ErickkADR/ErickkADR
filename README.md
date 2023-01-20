@@ -1,4 +1,8 @@
+<div align="center"> 
+  
 # Hi, I'm Erick 👨🏻‍💻 - @erickk.adr
+  
+</div>  
   
   <div align="center"> 
 <a href="https://www.youtube.com/channel/UC1aGJL3yiFcF49_PFU_Jajg" target="_blank"><img src="https://img.shields.io/badge/YouTube-323330?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
