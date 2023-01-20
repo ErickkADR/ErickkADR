@@ -40,19 +40,12 @@ I want to work outside Brazil, improve my English and get to know new cultures, 
         <p>
         🌙 The programming language I'm studying at the moment is Java Script !!!
       </p>
-      </div>
-      <div align="center"> 
-        <br>
-        
- 
-# MAIN SKILLS
-   
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white)
-![image](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=white)
-<br>![image](https://img.shields.io/badge/Microsoft_Office-323330?style=for-the-badge&logo=microsoft-office&logoColor=white)
+    <br>
+    
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
    
 </div>
+ <br>
     </td>
   </tr>
 </table>
