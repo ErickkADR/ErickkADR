@@ -1,6 +1,6 @@
 <div align="center"> 
   
-# Hi, I'm Erick 👨🏻‍💻 - @erickk.adr
+# HELLO, I'M ERICK 👨🏻‍💻 - @Erickk.Adr
   
 </div>  
   
@@ -30,31 +30,22 @@ I want to work outside Brazil, improve my English and get to know new cultures, 
     </td>
     <td style="border: 0";>
       <div align="center"> 
+        <h1>ABOUT ME</h1>
       <p>
-        💻 I am currently in the third year of high school.
+        📜 i have 8 certificates !!!
       </p>
       <p>
-        🌙 The programming language I'm studying at the moment is Java Script.
+        💻 I am currently in the third year of high school !!!
       </p>
-      <h3>Other places you can find me</h3>
-      <ul>
-        <li>
-          🐦 <a href="https://twitter.com/ERICK_A_D_R" target="_blank">Follow me on Twitter</a>
-        </li>
-        <li>
-          📺 <a href="https://www.youtube.com/channel/UC1aGJL3yiFcF49_PFU_Jajg" target="_blank">Subscribe on Youtube</a>
-        </li>
-        <li>
-          📷 <a href="https://www.instagram.com/erickk.adr/" target="_blank">Follow me on instagram</a>
-        </li>
-        <li>
-          📬 <a href=mailto:erick.dantas.work@gmail.com target="_blank">Contact-me on email</a>
-        </li>
-      </ul>
+        <p>
+        🌙 The programming language I'm studying at the moment is Java Script !!!
+      </p>
       </div>
       <div align="center"> 
+        <br>
+        
  
-# Main skills
+# MAIN SKILLS
    
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white)
