@@ -1,13 +1,11 @@
 # Hi, I'm Erick 👨🏻‍💻 - @erickk.adr
   
-</div>
-  
   <div align="center"> 
-<a href="https://www.youtube.com/channel/UC1aGJL3yiFcF49_PFU_Jajg" target="_blank"><img src="https://img.shields.io/badge/YouTube-705fad?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/erickk.adr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-705fad?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:mailto:erick.dantas.work@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-705fad?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href= "https://www.linkedin.com/in/erickkadr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-705fad?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href= "https://twitter.com/ERICK_A_D_R" target="_blank"><img src="https://img.shields.io/badge/Twitter-705fad?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/channel/UC1aGJL3yiFcF49_PFU_Jajg" target="_blank"><img src="https://img.shields.io/badge/YouTube-323330?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/erickk.adr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-323330?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:mailto:erick.dantas.work@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href= "https://www.linkedin.com/in/erickkadr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href= "https://twitter.com/ERICK_A_D_R" target="_blank"><img src="https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   
  </div>
   <br>
@@ -50,8 +48,13 @@ I want to work outside Brazil, improve my English and get to know new cultures, 
   </tr>
 </table>
 
-| ![](https://raw.githubusercontent.com/ErickkADR/ErickkADR/master/profile-summary-card-output/nord_dark/3-stats.svg) | ![](https://raw.githubusercontent.com/ErickkADR/ErickkADR/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg) | ![](https://raw.githubusercontent.com/ErickkADR/ErickkADR/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg) |
-| :-: | :-: | :-: |
-
-| ![](https://raw.githubusercontent.com/ErickkADR/ErickkADR/master/profile-summary-card-output/nord_dark/0-profile-details.svg) | ![](https://raw.githubusercontent.com/ErickkADR/ErickkADR/master/profile-summary-card-output/nord_dark/4-productive-time.svg) |
-| :-: | :-: |
+ <div align="center"> 
+ 
+# Main skills
+   
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=white)
+<br>![image](https://img.shields.io/badge/Microsoft_Office-323330?style=for-the-badge&logo=microsoft-office&logoColor=white)
+   
+</div>
