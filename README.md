@@ -33,7 +33,11 @@ I want to work outside Brazil, improve my English and get to know new cultures, 
       <p>
         🌙 The programming language I'm studying at the moment is Java Script.
       </p>
-       <div align="center"> 
+    </td>
+  </tr>
+</table>
+  
+<div align="center"> 
  
 # Main skills
    
@@ -43,15 +47,3 @@ I want to work outside Brazil, improve my English and get to know new cultures, 
 <br>![image](https://img.shields.io/badge/Microsoft_Office-323330?style=for-the-badge&logo=microsoft-office&logoColor=white)
    
 </div>
-    </td>
-  </tr>
-</table>
-
-| ![](https://raw.githubusercontent.com/ErickkADR/ErickkADR/master/profile-summary-card-output/nord_dark/3-stats.svg) | ![](https://raw.githubusercontent.com/ErickkADR/ErickkADR/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg) | ![](https://raw.githubusercontent.com/ErickkADR/ErickkADR/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg) |
-| :-: | :-: | :-: |
-
-| ![](https://raw.githubusercontent.com/ErickkADR/ErickkADR/master/profile-summary-card-output/nord_dark/0-profile-details.svg) | ![](https://raw.githubusercontent.com/ErickkADR/ErickkADR/master/profile-summary-card-output/nord_dark/4-productive-time.svg) |
-| :-: | :-: |
- 
-  
-
