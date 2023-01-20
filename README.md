@@ -33,17 +33,7 @@ I want to work outside Brazil, improve my English and get to know new cultures, 
       <p>
         🌙 The programming language I'm studying at the moment is Java Script.
       </p>
-    </td>
-  </tr>
-</table>
-
-
-  
-| ![](https://raw.githubusercontent.com/ErickkADR/ErickkADR/master/profile-summary-card-output/nord_dark/3-stats.svg) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurspk&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurspk&theme=nord_dark) |
-| :-: | :-: | :-: |
-
-  
-<div align="center"> 
+      <div align="center"> 
  
 # Main skills
    
@@ -53,3 +43,11 @@ I want to work outside Brazil, improve my English and get to know new cultures, 
 <br>![image](https://img.shields.io/badge/Microsoft_Office-323330?style=for-the-badge&logo=microsoft-office&logoColor=white)
    
 </div>
+    </td>
+  </tr>
+</table>
+
+
+  
+| ![](https://raw.githubusercontent.com/ErickkADR/ErickkADR/master/profile-summary-card-output/nord_dark/3-stats.svg) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurspk&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurspk&theme=nord_dark) |
+| :-: | :-: | :-: |
