@@ -36,6 +36,11 @@ I want to work outside Brazil, improve my English and get to know new cultures, 
     </td>
   </tr>
 </table>
+
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurspk&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurspk&theme=nord_dark) |
+| :-: | :-: |
+
   
 <div align="center"> 
  
