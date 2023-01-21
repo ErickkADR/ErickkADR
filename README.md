@@ -1,9 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=120&section=header"/>
+
 <div align="center"> 
   
-# HELLO, I'M ERICK 👨🏻‍💻 - @Erickk.Adr
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Erickk;I'm+16+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 </div>  
-  
+   <br>
   <div align="center"> 
 <a href="https://www.youtube.com/channel/UC1aGJL3yiFcF49_PFU_Jajg" target="_blank"><img src="https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/erickk.adr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -42,7 +43,7 @@ I want to work outside Brazil, improve my English and get to know new cultures, 
       </p>
     <br>
     
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=0d1117)](https://open.spotify.com/user/omnitenebris)
    
 </div>
  <br>
@@ -57,3 +58,6 @@ I want to work outside Brazil, improve my English and get to know new cultures, 
   
 | ![](https://raw.githubusercontent.com/ErickkADR/ErickkADR/master/profile-summary-card-output/github_dark/0-profile-details.svg) | ![](https://raw.githubusercontent.com/ErickkADR/ErickkADR/master/profile-summary-card-output/github_dark/4-productive-time.svg) |
 | :-: | :-: |
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=120&section=footer"/>
+
