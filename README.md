@@ -2,7 +2,7 @@
 
 <div align="center"> 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Erickk;I'm+16+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+# HELLO, I'M ERICKK 👨🏻‍💻 - @erickk.adr
 </div>  
    <br>
   <br>
@@ -12,16 +12,12 @@ I'm passionate about technology! I had my first contact with information technol
 I have knowledge in: JavaScript, HTML, CSS, GIT, VBA and Windows.
 
 I want to work outside Brazil, improve my English and get to know new cultures, people and have new experiences, currently I also study computer science and I dedicate myself to becoming a full-stack developer
-
-"I want to see and understand the outside world. I don't want to die inside these walls without knowing what's out there" - Eren Jaeger
  </div>
    <br>
   
 | ![](https://raw.githubusercontent.com/ErickkADR/ErickkADR/master/profile-summary-card-output/github_dark/3-stats.svg) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurspk&hide=Html&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurspk&theme=github_dark) |
 | :-: | :-: | :-: |
-  
-| [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ErickkADR&bg_color=0d1117&color=CACACA&line=CACACA&point=CACACA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)|
-| :-: |
+
   <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
@@ -59,3 +55,4 @@ I want to work outside Brazil, improve my English and get to know new cultures, 
  </div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=262626&height=120&section=footer"/>
+  
