@@ -24,6 +24,12 @@ I want to work outside Brazil, improve my English and get to know new cultures, 
 "I want to see and understand the outside world. I don't want to die inside these walls without knowing what's out there" - Eren Jaeger
  </div>
    <br>
+  
+| ![](https://raw.githubusercontent.com/ErickkADR/ErickkADR/master/profile-summary-card-output/github_dark/3-stats.svg) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurspk&hide=Html&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurspk&theme=github_dark) |
+| :-: | :-: | :-: |
+  
+| ![](https://raw.githubusercontent.com/ErickkADR/ErickkADR/master/profile-summary-card-output/github_dark/0-profile-details.svg) | ![](https://raw.githubusercontent.com/ErickkADR/ErickkADR/master/profile-summary-card-output/github_dark/4-productive-time.svg) |
+| :-: | :-: |
   <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
@@ -50,14 +56,6 @@ I want to work outside Brazil, improve my English and get to know new cultures, 
     </td>
   </tr>
 </table>
-
-
-  
-| ![](https://raw.githubusercontent.com/ErickkADR/ErickkADR/master/profile-summary-card-output/github_dark/3-stats.svg) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurspk&hide=Html&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurspk&theme=github_dark) |
-| :-: | :-: | :-: |
-  
-| ![](https://raw.githubusercontent.com/ErickkADR/ErickkADR/master/profile-summary-card-output/github_dark/0-profile-details.svg) | ![](https://raw.githubusercontent.com/ErickkADR/ErickkADR/master/profile-summary-card-output/github_dark/4-productive-time.svg) |
-| :-: | :-: |
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=120&section=footer"/>
 
