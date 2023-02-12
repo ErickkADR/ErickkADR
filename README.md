@@ -21,7 +21,7 @@ I want to work outside Brazil, improve my English and get to know new cultures, 
   <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://cdn-blog.adafruit.com/uploads/2020/08/tumblr_c033a9e8d94d0f9bb443879be3bdf97a_be998c70_1280.gif" />
+      <img width="400" src="https://i.pinimg.com/originals/77/d0/9b/77d09b03613b865457cf5db9f1c833f5.gif" />
     </td>
     <td style="border: 0";>
       <div align="center"> 
