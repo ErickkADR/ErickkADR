@@ -6,13 +6,20 @@
 
 </div>
 
-<div align="center">
+<table>
+<tr>
+<td width="260">
+<img width="260" src="https://i.pinimg.com/originals/77/d0/9b/77d09b03613b865457cf5db9f1c833f5.gif" />
+</td>
+<td>
 
 I'm passionate about technology! I had my first contact with information technology at the age of 4, and since then I've never stopped exploring this incredible field. I believe technology's real value is in making people's lives easier — and that knowledge should be accessible to everyone. I'm currently based in São Paulo, Brazil, but I still dream of experiencing life in the United States someday, sharing what I know and picking up new experiences along the way.
 
 I started in tech support, but I kept building small AI-powered tools on the side to solve real problems for my team — and that ended up turning into my actual job. Today I work as a **Technical Content Creator at Bannerjet** (visual communication equipment: plotters, laser engravers, laminators, printers), where I design and build the AI infrastructure behind our technical support, documentation, and training.
 
-</div>
+</td>
+</tr>
+</table>
 <br>
 
 ## 💻 What I do
