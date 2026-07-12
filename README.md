@@ -9,7 +9,7 @@
 <table>
 <tr>
 <td width="260">
-<img width="260" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhnaHBocWR1a283b2V4NzQxNHQzeDZoNzZ2cmM4bDYzdzIyangxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mAI8Cg08NyNpD9KRXg/giphy.gif" />
+<img width="260" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRxdzNrNDB0ZjJxdGN4ZmpzZjlvYXN0a2dxeXdmdjQ1MWswbW1tayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wlq4PzZ10N15dGrQiz/giphy.gif" />
 </td>
 <td>
 
