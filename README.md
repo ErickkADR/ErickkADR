@@ -9,7 +9,7 @@
 <table>
 <tr>
 <td width="260">
-<img width="260" src="https://media.discordapp.net/attachments/1213611539936976996/1520981857636843672/ezgif-2ecc83aae455bd8c.gif?ex=6a54f87d&is=6a53a6fd&hm=b6d5d056b5899d7dc62ea7725cc2ce01d5b530e9340c93add5af8db76b2c563a&=" />
+<img width="260" src="https://media.discordapp.net/attachments/1213611539936976996/1497002649835278397/https___c_tenor.com_6rNC9PLJB9YAAAAC_goku-jumping-goku.gif?ex=6a5567dc&is=6a54165c&hm=db5cc41a9de50beb137e3a8d2a1e246a6ab7fe554c234f1aa4bc8f80c75364cc&=" />
 </td>
 <td>
 
