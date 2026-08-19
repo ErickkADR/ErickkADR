@@ -9,7 +9,7 @@
 <table>
 <tr>
 <td width="260">
-<img width="260" src="https://media.discordapp.net/attachments/1213611539936976996/1225227726596866138/ezgif-2-a872fae956.gif?ex=6a85957d&is=6a8443fd&hm=febfb435c9e868b2eda4b94dd946b5494c0e2d895af90c8746b6b43e42b8a716&="/>
+<img width="260" src="https://media1.tenor.com/m/RYxJ84AklKUAAAAd/solo-leveling-solo-leveling-season-2.gif"/>
 </td>
 <td>
 
