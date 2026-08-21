@@ -1,5 +1,7 @@
 <div align="center">
+  
 # HELLO, I'M ERICKK 👨🏻‍💻 - @erickk.adr
+
 </div>
 
 <table>
