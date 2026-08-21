@@ -20,10 +20,10 @@
 ## 💻 What I do
 
 - Build RAG-based support chatbots (Supabase + vector embeddings) fed by a unified knowledge base of hundreds of Q&A pairs
-- Design WhatsApp support automation and message classification flows using Callbell's logic nodes
+- Design WhatsApp support automation using Callbell's logic nodes
 - Explore webhook integrations between WhatsApp, n8n, and other platforms for smarter support routing
-- Produce AI-narrated technical tutorials and flowcharts (ElevenLabs) that became the standard for our support team
-- Write technical manuals, run our YouTube tutorial channel, and manage software localization (PT-BR)
+- Produce AI-narrated technical tutorials and flowcharts that became the standard for our support team
+- Write technical manuals adn run our YouTube tutorial channel.
 
 </td>
 </tr>
