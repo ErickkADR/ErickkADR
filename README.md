@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td width="260">
-<img width="260" src="https://media.tenor.com/XN0lpT0eRA4AAAAi/sprite-pokemon.gif"/>
+<img width="260" src="https://media.tenor.com/QNcnD8cnwt4AAAAi/lycanroc-midnight-form.gif"/>
 </td>
 <td>
 
