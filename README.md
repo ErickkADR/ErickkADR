@@ -1,13 +1,11 @@
 <div align="center">
-
 # HELLO, I'M ERICKK 👨🏻‍💻 - @erickk.adr
-
 </div>
 
 <table>
 <tr>
 <td width="260">
-<img width="260" src="https://media.tenor.com/QNcnD8cnwt4AAAAi/lycanroc-midnight-form.gif"/>
+<img width="260" src="https://media.tenor.com/JQQkbonzvtoAAAAi/garchomp-pokemon.gif"/>
 </td>
 <td>
 
