@@ -5,11 +5,7 @@
 # HELLO, I'M ERICKK 👨🏻‍💻 - @erickk.adr
 
 </div>
-<div align="center">
 
-*"Me entregue o Claude Code e com minha criatividade moverei o mundo..."*
-
-</div>
 <table>
 <tr>
 <td width="260">
