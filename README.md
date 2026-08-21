@@ -28,10 +28,3 @@
 | :-: | :-: | :-: |
 
 </div>
-<br>
-
-<div align="center">
-
-📫 Reach me: [Instagram](https://www.instagram.com/erickk.adr/) · [LinkedIn](https://www.linkedin.com/in/erickkadr/) · [YouTube](https://www.youtube.com/@erickk1392)
-
-</div>
