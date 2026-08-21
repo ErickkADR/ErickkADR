@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=262626&height=120&section=header"/>
-
 <div align="center">
 
 # HELLO, I'M ERICKK 👨🏻‍💻 - @erickk.adr
@@ -37,5 +35,3 @@
 📫 Reach me: [Instagram](https://www.instagram.com/erickk.adr/) · [LinkedIn](https://www.linkedin.com/in/erickkadr/) · [YouTube](https://www.youtube.com/@erickk1392)
 
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=262626&height=120&section=footer"/>
