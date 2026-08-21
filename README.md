@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td width="260">
-<img width="260" src="https://media1.tenor.com/m/RYxJ84AklKUAAAAd/solo-leveling-solo-leveling-season-2.gif"/>
+<img width="260" src="https://media.tenor.com/1xtvQE_XAnMAAAAi/pokemon-of-ashes.gif"/>
 </td>
 <td>
 
