@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td width="260">
-<img width="260" src="https://media1.tenor.com/m/BOVimdzTuwsAAAAd/lucia-caminos-jason-duval.gif"/>
+<img width="260" src="https://media1.tenor.com/m/_SPVxICmAMkAAAAd/gta-6-lucia-gta-6.gif"/>
 </td>
 <td>
 
